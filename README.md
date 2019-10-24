@@ -1,2 +1,2 @@
-# third
-this is for testing smartgit
+# NAME 
+*my name is sohaib*
